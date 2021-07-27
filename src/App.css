@@ -1,38 +1,59 @@
+body{
+  background-color: #cfdfff;
+}
+
 .App {
+  font-family: 'Otomanopee One', sans-serif; 
+  font-size: 35pt;
   text-align: center;
+  letter-spacing: 5pt;
 }
 
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
+.App img.start{
+  max-width: 250px;
+  cursor: pointer;
 }
 
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
+.App .Game{
+display:flex;
+letter-spacing:2pt;
+
+}
+.App .Game .Player{
+flex-grow: 1;
+}
+.App .Game .Computer{
+  flex-grow: 1;
 }
 
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
+.App .Game .Computer img{
+  max-width: 250px;
 }
 
-.App-link {
-  color: #61dafb;
+.App .Game .Player span {
+  display: inline-block;
+  text-align: center;
+  font-size: 0.75em;
+  cursor: pointer;
 }
 
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
+.App .Game .Player img{
+  max-width: 200px;
+  margin: 0 15px 15px;
+  display: block;
+}
+
+.App .Game .Player.selected img,
+.App .Game img{
+  max-width: 250px;
+  margin: auto
+}
+
+
+
+.App pre {
+  padding: 10px;
+  text-align: left;
+  font-size: 20pt;
+  letter-spacing: normal;
 }
