@@ -2,10 +2,11 @@ body {
   background-color: #cfdfff;
 }
 .App {
-  font-family: "Luckiest Guy", cursive;
+  font-family: 'Otomanopee One', sans-serif;
   font-size: 35pt;
   text-align: center;
-  letter-spacing: 5pt;
+  letter-spacing: 3pt;
+  padding-top: 0;
 }
 .App img.start {
   max-width: 250px;
