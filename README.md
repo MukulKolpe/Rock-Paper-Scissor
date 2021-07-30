@@ -27,11 +27,11 @@ Make sure you have node.js installed.
 1. Fork this repository.
 2. clone it.
  ```
- git clone https://github.com/YOUR_GITHUB_UserName/React-Calculator
+ git clone https://github.com/YOUR_GITHUB_UserName/Rock-Paper-Scissor
  ```
 3. 
  ```
- cd React-Calculator
+ cd Rock-Paper-Scissor
  ```
 4. Install node modules
  ```
@@ -43,5 +43,5 @@ Make sure you have node.js installed.
  ```
    
 
-## Deployed [here](https://react-calculator-mukul.netlify.app/)
+## Deployed [here](https://rock-paper-scissor-mukul.netlify.app/)
 
