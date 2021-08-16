@@ -6,6 +6,7 @@ Contributors are welcome.
 
 ## [Code of Conduct](https://github.com/MukulKolpe/Rock-Paper-Scissor/blob/main/CODE_OF_CONDUCT.md)
 
+## [Contributing Guidlines](https://github.com/MukulKolpe/Rock-Paper-Scissor/blob/main/CONTRIBUTING.md)
 
 ## Tech-stack Used
 - React.js
