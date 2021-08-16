@@ -45,3 +45,4 @@ Make sure you have node.js installed.
 
 ## Deployed [here](https://rock-paper-scissor-mukul.netlify.app/)
 
+## [License](https://github.com/MukulKolpe/Rock-Paper-Scissor/blob/main/LICENSE)
