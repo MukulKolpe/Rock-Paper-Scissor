@@ -3,6 +3,10 @@
 ## Description
 It is a fun game made using react. Try it out. 
 Contributors are welcome.
+
+## [Code of Conduct](https://github.com/MukulKolpe/Rock-Paper-Scissor/blob/main/CODE_OF_CONDUCT.md)
+
+
 ## Tech-stack Used
 - React.js
 - CSS
