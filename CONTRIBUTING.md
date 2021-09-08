@@ -98,6 +98,3 @@ Soon I'll be merging all your changes into the master branch of this project. Yo
 
 Congrats! You just completed the standard _fork -> clone -> edit -> PR_ workflow that you'll encounter often as a contributor!
 
-## Reference
-
-- [https://github.com/firstcontributions](https://github.com/firstcontributions)
